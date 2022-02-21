@@ -1,0 +1,23 @@
+= Respuesta Pruebas
+Universo Santa Tecla <USantaTecla@gmail.com>
+:toc-title: Índice
+:toc: left
+
+:idprefix:
+:idseparator: -
+:imagesdir: images
+
+[cols="50,50", grid=none, frame=none]
+|===
+
+^.^a|
+image:mpds.png[]
+^.^a|
+image:EscuelaIT.png[]
+
+|===
+
+
+include::1-respuestasPruebaPlantUML/0-index.adoc[]
+include::2-ponente.adoc[]
+

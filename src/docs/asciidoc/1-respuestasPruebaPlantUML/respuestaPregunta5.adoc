@@ -1,0 +1,80 @@
+=== Pregunta Nº5
+
+Relaciona, con aproximadamente 50 palabras, las unidades de Patrones y Conocimiento vistos anteriormente
+
+* *anónimo*
+
+[source]
+....
+A partir del conocimiento se descubren patrones patrones, saber identificar los elementos conocer sus características determinar comportamientos aumenta nuestro conocimiento y a su vez nos facilita la labor de encontrar patrones
+....
+
+* *lfcv00007*
+
+[source]
+....
+
+....
+
+
+* *anggilb*
+
+[source]
+....
+Pirámide de DICS: Datos < Información < Conocimiento < Sabiduría. En estos 4 niveles existen diferentes tipos de patrones que se repiten de forma recurrente en la vida real y cuyo aprendizaje puede facilitar el ascender al siguiente nivel de la pirámide anteriormente descrita, para cualquier área del conocimiento.
+....
+
+
+* *asanera*
+
+[source]
+....
+Por el conocimiento y a través de la piramide de DICK podemos crear patrones, ya que el conocimiento da la capacidad de crear jerarquías, clasificaciones y herencias de diferentes conjuntos y objetos dando la capacidad al ser humano de poder abstraerse y modelar una solución común para implementarlas en diferentes escenarios.
+....
+
+* *borxdev*
+
+[source]
+....
+- Todo se agrupa y se relaciona en conjuntos.
+- Un Conjunto es una colección... que se asocia por algún patrón.
+- Un Patrón es un modelo (una clase, un conjunto) que sirve de muestra para sacar otra cosa igual (un objeto, otro conjunto).
+- Una Clase es un conjunto cuyos elementos son las características comunes de otro conjunto de objetos similares.
+- Un Objeto es un ejemplar de una Clase, con estado definido... Es un conjunto de elementos que son otros objetos, que a su vez son objetos, y así continua siguiendo un patrón recursivo.
+- Los procesos y algoritmos también son conjuntos. Las jerarquías se basan en conjuntos.
+....
+
+* *mabernabe*
+[source]
+....
+Las señales físicas que percibimos por los sentidos (ya hablamos de ellas en la unidad de patrones) dejan de ser ruido cuando se convierte en patrón, con formato reconocible, un dato. 
+ Con un lenguaje como UML (que empezamos a ver en patrones) podemos organizar los datos para darles significado y convertirlos en información.
+ El conocimiento usa la información y es necesario para dar soluciones eficaces y eficientes (conceptos que vimos en patrones) en todos los sectores de producción.
+Con conjuntos podemos describir todo, incluyendo los patrones, clases, clases abstractas, objetos, jerarquías de clasificación y composición que ya vimos en la unidad de patrones
+....
+
+* *diego-novoa*
+[source]
+....
+Patrones
+
+Objetos son ejemplares de una Clase que tiene propiedades y comportamientos que se clasifican heredan, colaboran tienen un uso, asociación y composición 
+Tienen unos Valores Longitud: metro, Sustancia: mol, Masa: kilogramo, Tiempo: segundo, Temperatura: kelvin, Luminosidad: candela, Electricidad: amperio y Unidades de ubicación 
+Procesos son actividades a realizar y Algoritmos son instrucciones a ciertas actividades 
+Igualdad, conjunto de objetos iguales o idénticos de un patrón de la vida real a extraer con un Modelo del Dominio, que Describe los conceptos más importantes del Objetos de negocio y Objetos del mundo real y conceptos con Tipos de Patrones, Iterativos que se repiten, los Patrones Recursivos que se repiten en sí mismos o recurrentes que se repiten al principio o al final esporádicamente.
+Patrones Sencillos ,Interfaz Gráfica de Usuario son lineal, triangular o circular se utilizan en Tipos de Datos, Estructuras de Datos, Sentencias de Control de Flujo de Ejecución, Recursividad en Procesos, Recursividad en Datos, Metodologías de Desarrollo en el Conocimiento la humanidad busaca la autorrealización, Pirámide de Maslow, pero Pirámide DIKW busca poner orden caos, a través de un Lenguaje Formal,  expresiones Regulares en Sectores Productivos con un Conjunto colección desordenada de elementos no repetidos, con Tipos de Conjuntos de extensión y compresión,           Objetos conjunto de elementos que son otros objetos que a su vez … recursivamente y Clases conjunto cuyos elementos son las características comunes de otro conjunto de objetos similares y Clases Abstractas conjunto intersección de características comunes          Jerarquías de Composición unión de los objetos partes del todo vs Clasficación intersección de las características de las clases similares, Jerarquías de Agregación Un objeto parte pertenece a varios objetos todo y Clasificación Múltiple Un clase descendiente comparte características con varias clases base, Relación de Asociación colaboración entre objetos, Álgebra de Boole , Estrategias de Clasificación , Historia de la Ciencia , Método Científico de Galileo, Método Cartesiano, Ciclo de Deming ,           Paradigmas de Khun, Dialéctica Hegeliana
+....
+
+
+* *anónimo*
+[source]
+....
+En Patrones hemos visto que un patrón es un modelo abstracto y su clasificación según su reusabilidad (recurrente, iterativo, recursivo) y en Conocimiento aprendemos a ordenar esos patrones y relacionarlos entre ellos según las jerarquías de clasificación y composición.
+....
+
+* *lab-lovalace*
+[source]
+....
+Un patrón es una abstracción de una forma concreta de solución que se repite en contextos específicos, pero el patrón en un momento llega a ser insuficiente para solucionar todos los posibles casos, ejemplo cuando se analizo el caso del ornitorrinco que es un mamífero que se desenmarca de la clasificación de esta especie. Cuando lo anterior ocurre, es necesario construir más patrones  que se pueden aglutinar formando colecciones que constituyen un vocabulario para comprender y comunicar ideas, con base en esas ideas se construye conocimiento. 
+....
+

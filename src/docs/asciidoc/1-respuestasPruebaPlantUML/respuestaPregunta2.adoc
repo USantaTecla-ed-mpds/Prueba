@@ -1,0 +1,70 @@
+=== Pregunta Nº2
+
+- Dada la tabla de verdad (combinaciones de cierto y falso) de la "puerta" XOR (especificación en tabla verde de https://es.wikipedia.org/wiki/Puerta_XOR), escribe la expresión lógica de la salida (tercera columna) correspondiente a la entrada (primeras 2 columnas)
+
+* *anónimo*
+
+[source]
+....
+A <> B = 1
+....
+
+* *lfcv00007*
+
+[source]
+....
+
+....
+
+* *anggilb*
+
+[source]
+....
+s = a.!b + !a.b
+....
+
+
+* *asanera*
+
+[source]
+....
+Q = (A ⊕ B) = A.B + A.B
+....
+
+* *borxdev*
+
+[source]
+....
+~A && B || A && ~B
+....
+
+* *mabernabe*
+[source]
+....
+SALIDA = (A && !B) || (!A && B
+....
+
+
+* *diego-novoa*
+[source]
+....
+
+....
+
+
+* *anónimo*
+[source]
+....
+A == B = O
+A != B = 1
+....
+
+* *lab-lovalace*
+[source]
+....
+a XOR b = (a AND NOT b) OR (NOT a AND b)
+....
+
+
+
+
