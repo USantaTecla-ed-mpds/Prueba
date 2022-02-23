@@ -21,3 +21,52 @@ image:EscuelaIT.png[]
 include::1-respuestasPruebaPlantUML/0-index.adoc[]
 include::2-ponente.adoc[]
 
+
+Solución meninas
+
+[plantuml, meninas, svg]
+....
+object viewer
+object velazquez
+object menina
+object queen
+object king
+object picture
+
+
+object positionShared #red
+object positionVelazquez {
+x = left
+y = middle
+}
+
+object positionMirror {
+x = center
+y = back
+}
+object positionMenina
+
+viewer ..> picture
+picture *--> mirror
+picture *--> velazquez
+picture *--> menina
+
+mirror ..> queen
+mirror ..> king
+
+
+viewer *-->  positionShared
+mirror *--> positionMirror
+velazquez *-->  positionVelazquez
+menina *-->  positionMenina
+queen *-->  positionShared
+king *-->  positionShared
+....
+
+Solución Granjero
+Mal por:
+- creación de objetos de clase abstracta
+- nombres de objetos en minúscula y en castellano
+- relaciones de herencia en diagrama de objetos
+
+La ciencia construye secuencial e iterativamente modelos de los patrones recurrentes encontrados en cada dominio con jerarquías de composición de elementos de jerarquías de clasificacion con asociaciones entre ellos 
